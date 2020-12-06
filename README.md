@@ -1,23 +1,23 @@
 # PNU_3991_AR
 ---------
-### فاطمه دوستانی
+### رضا کاظمی زاده
  
 ---
-- [github account](https://github.com/fatemedoostani)
+- [github account](https://github.com/rezakazemizadeh)
   : حساب گیت هاب
-- [resume](https://github.com/fatemedoostani/github.io)
+- [resume](https://github.com/rezakazemizadeh/github.io)
   : رزومه
-- [SOP](https://github.com/fatemedoostani/sop)
+- [SOP](https://rezakazemizadeh.github.io/sop/)
   :انگیزنه نامه 
   
 ------------------
 
-[Java Script](https://github.com/fatemedoostani/PNU_3991_AR/blob/main/downloadfile.pdf)
+[Java Script]
 
 
 
 -------------------
-# گروه های فاطمه دوستانی
+# گروه رضا کاظمی زاده
 
 ------------------
 ## Winter Semester Courses 1399/2020
