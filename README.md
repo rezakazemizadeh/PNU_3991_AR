@@ -14,9 +14,14 @@
 
 [Java Script](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/reza_kazemizade%20(1).pdf)
 
-[تایپ لاتک روش پژوهش و ارائه صفحه 151 تا 153](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/151-153.rar)
 
-[تایپ لاتک نظریه زبان ها و ماشین صفحه 189 تا 199](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/189-192.rar)
+[tex تایپ لاتک روش پژوهش و ارائه صفحه 151 تا 153](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/151-153.tex)
+
+[pdf تایپ لاتک روش پژوهش و ارائه صفحه 151 تا 153](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/151-153.pdf)
+
+[tex تایپ لاتک نظریه زبان ها و ماشین صفحه 189 تا 199](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/189-192.tex)
+
+[pdf تایپ لاتک نظریه زبان ها و ماشین صفحه 189 تا 199](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/151-153.pdf)
 
 -------------------
 # گروه رضا کاظمی زاده
