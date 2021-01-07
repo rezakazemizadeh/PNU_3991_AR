@@ -1,0 +1,123 @@
+\documentclass [7pt]{beamer}
+\usepackage{xcolor}	
+\usepackage{tikz}
+\usetheme{Frankfurt}
+\useoutertheme{infolines}
+\usepackage{ragged2e}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+\small
+\section*{mesal 1 , 2}
+\subsection*{reza kazemi zadeh }	
+\begin{frame}
+\justifying	
+5. Find the equivalent partition of the following machine.
+
+$$\begin{array}{lll}
+\hline & \multicolumn{2}{l} {\text { Next State, } \mathrm{z}} \\
+\cline { 2 - 3 } \text { Present State } & X=0 & X= 1 \\
+\hline \mathrm{A} & \mathrm{C}, 1 & \mathrm{D}, 0 \\
+\mathrm{B} & \mathrm{D}, 1 & \mathrm{E}, 0 \\
+\mathrm{C} & \mathrm{B}, 1 & \mathrm{E}, 1 \\
+\mathrm{D} & \mathrm{B}, 1 & \mathrm{A}, 0 \\
+\mathrm{E} & \mathrm{D}, 1 & \mathrm{B}, 1 \\
+\hline
+\end{array}$$
+
+
+Solution: The partitions are
+
+ 
+$P_{0}=(\mathrm{ABCDEF})$
+
+
+$P_{1}=(\mathrm{AD})(\mathrm{BCE})$ (Depending on o/p for $\mathrm{i} / \mathrm{p}$ 1)
+
+
+$P_{2}=(\mathrm{AD})(\mathrm{BE})(\mathrm{C})$ (For i/p $0,$ the next state of $\mathrm{C}$ goes to another set $)$ 
+
+
+$P_{3}=(A)(D)(B E)(C)$ (For $i / p 0,$ the next state of $A$ and $D$ goes to a different set$)$
+\end{frame}
+
+\begin{frame}
+\justifying	
+$P_{4}=(\mathrm{A})(\mathrm{D})(\mathrm{BE})(\mathrm{C})$
+
+As $P_{3}$ and $P_{4}$ are the same, $P_{3}$ is the equivalent partition.
+
+
+\textbf{Minimization:} We know that the cquivalent partition is unique. So,
+
+
+$P_{4}=(\mathrm{A})(\mathrm{D})(\mathrm{BE})(\mathrm{C})$ is the unique combination. Here, every single set represents one state of the minimized machine.
+
+
+Let us rename these partitions for simplifi cation. 
+
+
+Rename $(\mathrm{A})$ as $S_{1},(\mathrm{BE})$ as $S_{2},(\mathrm{C})$ as $S_{3},$ and $(\mathrm{D})$ as $S_{4}$ 
+
+
+The minimized machine becomes
+
+
+$$
+\begin{array}{lll}
+\hline & \multicolumn{2}{l} {\text { Next State,z }} \\
+\cline { 2 - 3 } \text { Present State } & X=0 & X= 1 \\
+\hline S_{1}(\mathrm{~A}) & S_{3}, 1 & S_{4}, 1 \\
+S_{2}(\mathrm{BE}) & S_{4}, 1 & S_{2}, 0 \\
+S_{3}(\mathrm{C}) & S_{2}, 1 & S_{2}, 1 \\
+S_{4}(\mathrm{D}) & S_{2}, 1 & S_{1}, 0 \\
+\hline
+\end{array}
+$$
+
+\end{frame}
+
+\begin{frame}
+\justifying
+6, Simplify the following incompletely specifi ed machine. 
+
+
+$$\begin{array}{llll}
+\hline & \multicolumn{3}{c} {\text { Next State,z }} \\
+\cline { 2 - 4 } \text { Present State } & I_{1} & I_{2} & I_{3} \\
+\hline \text { A } & \text { D, 1 } & \text { E,1 } & - \\
+\text { B } & \text { B, 0 } & \text { E,- } & \text { C,- } \\
+\text { C } & \text { C, }- & \text { C,0 } & \text { B, - } \\
+\text { D } & \text { B, 0 } & \text { D,- } & \text { E,- } \\
+\text { E } & - & \text { B,0 } & \text { A, - } \\
+\hline
+\end{array}$$
+
+\textbf{Solution:} Put a temporary state T in the next state place, where the next states are not specifi ed. If the output is not mentioned, there is no need to put any output. 
+	
+\end{frame}
+
+\begin{frame}
+\justifying
+
+As a temporary state T is considered, T is put in the present state colunm with the next state T for all inputs with no output.
+
+
+The simplifi ed machine becomes 
+
+
+$$\begin{array}{lllr}
+\hline & \multicolumn{3}{c} {\text { Next State,z }} \\
+\cline { 2 - 4 } \text { Present State } & I_{1} & I_{2} &I_{3} \\
+\hline \mathrm{A} & \mathrm{D}, 1 & \mathrm{E}, 1 & \mathrm{~T},- \\
+\mathrm{B} & \mathrm{B}, 0 & \mathrm{E},- & \mathrm{C},- \\
+\mathrm{C} & \mathrm{C},- & \mathrm{C}, 0 & \mathrm{B},- \\
+\mathrm{D} & \mathrm{B}, 0 & \mathrm{D},- & \mathrm{E},- \\
+\mathrm{E} & \mathrm{T},- & \mathrm{B}, 0 & \mathrm{A},- \\
+\mathrm{T} & \mathrm{T}, 0 & \mathrm{T},0 & \mathrm{T},0 \\
+\hline
+\end{array}$$
+
+
+\end{frame}
+\end{document}
