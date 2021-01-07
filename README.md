@@ -23,6 +23,14 @@
 
 [pdf تایپ لاتک نظریه زبان ها و ماشین صفحه 189 تا 199](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/151-153.pdf)
 
+[tex بیمر روش پژوهش و ارائه صفحه 151 تا 153](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/4_6023817629800597277%20(1).tex)
+
+[pdf بیمر روش پژوهش و ارئه صفحه 151 تا 153](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/4_6023817629800597278%20(2).pdf)
+
+[tex بیمر نظریه زبان ها و ماشین صفحه 189 تا 199](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/4_6014722680069031738%20(1).tex)
+
+[pdf بیمر نظریه زبان ها و ماشین صفحه 189 تا 199](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/4_6014722680069031737%20(2).pdf)
+
 -------------------
 # گروه رضا کاظمی زاده
 
