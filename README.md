@@ -36,7 +36,8 @@
 -------------------
 
 ## ارزیابی
-ارزیابی بخش عمومی(https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
+- [ارزیابی بخش عمومی](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
+- [ارزیابی نظریه زبانها و ماشینها](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.docx)
 
 ## Winter Semester Courses 1399/2020
 
