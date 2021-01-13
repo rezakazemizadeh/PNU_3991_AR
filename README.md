@@ -5,7 +5,7 @@
 ---
 - [github account](https://github.com/rezakazemizadeh)
   : حساب گیت هاب
-- [resume](https://github.com/rezakazemizadeh/github.io)
+- [resume](https://rezakazemizadeh.github.io/github.io/)
   : رزومه
 - [SOP](https://rezakazemizadeh.github.io/sop/)
   :انگیزنه نامه 
