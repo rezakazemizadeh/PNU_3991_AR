@@ -34,8 +34,12 @@
 [pdf بیمر نظریه زبان ها و ماشین صفحه 189 تا 199](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/4_6014722680069031737%20(2).pdf)
 
 -------------------
+
 ## ارزیابی
+ارزیابی بخش عمومی(https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
+
 ## Winter Semester Courses 1399/2020
+
 
 ## دروس کارشناسی
 
