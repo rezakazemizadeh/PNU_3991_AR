@@ -10,9 +10,8 @@
 - [SOP](https://rezakazemizadeh.github.io/sop/)
   :انگیزنه نامه 
   
-------------------
-
-[Java Script](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/reza_kazemizade%20(1).pdf)
+- [Java Script](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/reza_kazemizade%20(1).pdf)
+  :[جاوا اسکریپت
 
 
 [tex تایپ لاتک روش پژوهش و ارائه صفحه 151 تا 153](https://github.com/rezakazemizadeh/PNU_3991_AR/blob/main/151-153.tex)
